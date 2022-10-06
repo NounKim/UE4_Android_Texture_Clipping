@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MobileNativeCode-0033.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\P5820-510\Documents\Unreal Projects\Image_Maker\Intermediate\Build\Win64\Image_MakerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\P5820-510\Documents\Unreal Projects\Image_Maker\Plugins\PluginMobileNativeCode\MobileNativeCode\Intermediate\Build\Win64\UE4Editor\Development\MobileNativeCode\Module.MobileNativeCode.cpp.obj"
+"C:\Users\P5820-510\Documents\Unreal Projects\Image_Maker\Plugins\PluginMobileNativeCode\MobileNativeCode\Intermediate\Build\Win64\UE4Editor\Development\MobileNativeCode\Module.MobileNativeCode.gen.cpp.obj"
+"C:\Users\P5820-510\Documents\Unreal Projects\Image_Maker\Plugins\PluginMobileNativeCode\MobileNativeCode\Intermediate\Build\Win64\UE4Editor\Development\MobileNativeCode\Default.rc2.res"
+/OUT:"C:\Users\P5820-510\Documents\Unreal Projects\Image_Maker\Plugins\PluginMobileNativeCode\MobileNativeCode\Intermediate\Build\Win64\UE4Editor\Development\MobileNativeCode\UE4Editor-MobileNativeCode-0033.lib"

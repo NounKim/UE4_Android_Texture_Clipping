@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MobileNativeCode.cpp.obj": [
+			"MobileNativeCode.cpp.obj",
+			"MobileNativeCodeBlueprint.cpp.obj"
+		],
+		"Module.MobileNativeCode.gen.cpp.obj": [
+			"MobileNativeCode.init.gen.cpp.obj",
+			"MobileNativeCodeBlueprint.gen.cpp.obj",
+			"ToastLengthMessage.gen.cpp.obj"
+		]
+	}
+}
